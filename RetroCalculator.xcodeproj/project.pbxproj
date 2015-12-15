@@ -13,6 +13,7 @@
 		26D5D2101C1FD455009215C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26D5D20F1C1FD455009215C7 /* Assets.xcassets */; };
 		26D5D2131C1FD455009215C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26D5D2111C1FD455009215C7 /* LaunchScreen.storyboard */; };
 		26D5D21B1C1FE13D009215C7 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 26D5D21A1C1FE13D009215C7 /* Minecraft.ttf */; };
+		26D5D21D1C1FE65C009215C7 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 26D5D21C1C1FE65C009215C7 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		26D5D2121C1FD455009215C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		26D5D2141C1FD455009215C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		26D5D21A1C1FE13D009215C7 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
+		26D5D21C1C1FE65C009215C7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = RetroCalculator/README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		26D5D1FC1C1FD455009215C7 = {
 			isa = PBXGroup;
 			children = (
+				26D5D21C1C1FE65C009215C7 /* README.md */,
 				26D5D2071C1FD455009215C7 /* RetroCalculator */,
 				26D5D2061C1FD455009215C7 /* Products */,
 			);
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				26D5D21D1C1FE65C009215C7 /* README.md in Sources */,
 				26D5D20B1C1FD455009215C7 /* ViewController.swift in Sources */,
 				26D5D2091C1FD455009215C7 /* AppDelegate.swift in Sources */,
 			);
